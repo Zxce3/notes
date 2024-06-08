@@ -1,0 +1,20 @@
+repo_name: Zxce3/notes
+report_id: c7526e36fe5d14a5b580706114d11322
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:08:37+00:00'
+requested_by: Zxce3
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/notes
+  detection_source: Repo Metadata
